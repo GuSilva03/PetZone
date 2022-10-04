@@ -1,0 +1,51 @@
+#topo{
+    display: flex;
+    clear: both;
+    padding: 15px;
+}
+.links{
+    color: rgb(91, 91, 231);
+    font-size: 1.1em;
+    text-align: center;
+    text-decoration: none;
+    margin: 15px;
+    top: 20px;
+}
+.links:hover{
+    background: #000;
+}
+#broke{
+    border: solid 1px blue;
+}
+#texto{
+    display: block;
+    color:blue;
+    margin: 25px;
+    width: 900px;
+    height: 750px;
+    font-size: 10px;
+    left: 200px;
+}
+.subtext{
+    color: black;
+    font-size: large;
+}
+.busca{
+    border-radius: 20px;
+    width: 250px;
+    height: 25px;
+}
+#pinscher{
+    display: flex;
+    float: right;
+    border-radius: 30px;
+    width: 150px;
+}
+.botton2{
+    justify-content: center;
+    color: azure;
+    background-color: orangered;
+    border-radius: 25px;
+    width: 250px;
+    height: 25px;
+}
